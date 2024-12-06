@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sajeed25
 - 👀 I’m interested in building solutions
-- 🌱 I’m currently working on AIML
+- 🌱 I’m currently working on AIML & IoT
 - 💞️ I’m looking to collaborate on OpenCV & NLP
 - 📫 Reach me on sajeed@robokalam.com or https://wa.me/919949279869
 
